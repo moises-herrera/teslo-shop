@@ -1,0 +1,7 @@
+.form-control {
+  @apply flex flex-col mb-2;
+}
+
+.form-field {
+  @apply p-2 border rounded-md bg-gray-200;
+}
